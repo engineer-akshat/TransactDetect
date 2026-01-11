@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection
+# 💳 TransactDetect 
 
 A full pipeline for detecting fraudulent financial transactions using machine learning, addressing severe class imbalance on a real-world simulated dataset with over 6 million records. Built and deployed for practical use in real-time fraud monitoring systems.
 
